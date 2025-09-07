@@ -6,11 +6,11 @@
 ⚡ Love working on real-world projects that combine software engineering with AI innovation<br/>
 🌱 Always learning & sharing knowledge through projects, open-source contributions, and experiments<br/>
 🛠️ Some of my projects:<br/>
-  🔹 Educational Content Search using RAG<br/>
-  🔹 Legal Document Searrch Using RAG<br/>
-  🔹 Insta Share(Instagram Clone)<br/>
-  🔹 Customer Management App<br/>
-  🔹 Restaurant App<br/>
+  🔹 Educational Content Search using RAG Pipeline<br/>
+  🔹 Legal Document Searrch Using RAG Pipeline<br/>
+  🔹 Insta Share(Instagram Clone React Project)<br/>
+  🔹 Customer Management App (React Project)<br/>
+  🔹 Restaurant App(React Project)<br/>
 <br/>
 📫 Let’s connect: LinkedIn: https://www.linkedin.com/in/madhunayani/ | Portfolio : https://madhu-nayani.lovable.app/ | Twitter: Mad_hu17
 
